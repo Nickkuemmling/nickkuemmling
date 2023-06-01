@@ -5,9 +5,9 @@
 
 - 🔭 I’m employed with and am developing for <a href="https://www.niagaraparks.com/">**Niagara Parks**</a>
 
-- 💬 Ask me about **SEO Optimization, Accessibility, and Javascript**
+- 💬 Ask me about **SEO Optimization, Accessibility, and JavaScript**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **nickkuemmlingdev@gmail.com**
 
