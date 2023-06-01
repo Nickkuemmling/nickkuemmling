@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nickkuemmlingdev@gmail.com**
 
-- 📄 Check out my <a href="nickkuemmlingresume2023.tiiny.site">skills & experiences<a>
+- 📄 Check out my <a href="https://nickkuemmlingresume2023.tiiny.site/">skills & experiences<a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
