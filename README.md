@@ -5,7 +5,7 @@
 
 - 🔭 I’m employed with and am developing for <a href="https://www.niagaraparks.com/">**Niagara Parks**</a>
 
-- 💬 Ask me about **SEO Optimization, Accessibility, and JavaScript**
+- 💬 Ask me about **SEO, Accessibility, and JavaScript**
 
 - 🌱 I’m currently learning **TypeScript**
 
